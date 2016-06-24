@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' timelineScrubberEnabled='true'>
+    <pages>
+        <page name='Singleton'/>
+        <page name='Factory'/>
+        <page name='Builder'/>
+        <page name='Adapter'/>
+        <page name='Proxy'/>
+        <page name='Composite'/>
+        <page name='Bridge'/>
+        <page name='Filter_aka_Criteria'/>
+        <page name='Decorator'/>
+        <page name='Facade'/>
+        <page name='Flyweight'/>
+        <page name='Observer'/>
+        <page name='Command'/>
+        <page name='Interpreter'/>
+        <page name='Iterator'/>
+        <page name='Mediator'/>
+        <page name='Memento'/>
+        <page name='State'/>
+        <page name='Strategy'/>
+        <page name='Template'/>
+        <page name='Visitor'/>
+        <page name='Dependency injection'/>
+        <page name='MVC'/>
+        <page name='BusinessDelegate'/>
+        <page name='CompositeEntity'/>
+        <page name='DAO'/>
+        <page name='FrontController'/>
+        <page name='InterceptingFilter'/>
+        <page name='ServiceLocation'/>
+    </pages>
+</playground>
